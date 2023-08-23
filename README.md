@@ -17,6 +17,7 @@ Great :
 Now we search the exploit with __searchsploit -m "code"__
 
 The script is copied in our directory.
+
 Now we launch it :
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qCJxvPd/Screenshot-2023-08-23-15-34-58.png" alt="Screenshot-2023-08-23-15-34-58" border="0"></a>
