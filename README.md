@@ -5,6 +5,7 @@ Write-Up of Agent T room : https://tryhackme.com/room/agentt
 First, we scan the machine with nmap :
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/S5MSZJK/Screenshot-2023-08-23-15-09-44.png" alt="Screenshot-2023-08-23-15-09-44" border="0"></a>
+
 Only one port is open and we can see an interesting thing, the version of php : __8.1.0-dev__
 The room had CVE in theses tags, so we can search on the web if someone of them exist for this version.
 
